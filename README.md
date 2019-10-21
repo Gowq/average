@@ -1,0 +1,2 @@
+# average
+Customizable average calculator
